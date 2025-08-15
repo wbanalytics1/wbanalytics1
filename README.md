@@ -4,7 +4,7 @@ William David Boggs
 A personal GitHub landing page showcasing my skills, background, and current tech stack.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+David!;MIS+Student+%7C+Aspiring+Data+Analyst;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+David!;MIS+Student+%7C+Aspiring+Data-Analyst;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 ## 🚀 Tech Stack
