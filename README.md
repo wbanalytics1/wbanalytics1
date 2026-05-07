@@ -4,7 +4,7 @@ William David Boggs
 Current C.T. Bauer M.I.S. Student. Future MSIT.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=200&center=true&vCenter=true&width=600&color_list=FF0000,00FF00,0000FF,FFFF00,FF00FF,00FFFF&lines=Hi%2C+I'm+David!;MIS+Student+%7C+Aspiring+Data+Analyst;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=200&center=true&vCenter=true&width=600&color_list=FF0000,00FF00,0000FF,FFFF00,FF00FF,00FFFF&lines=Hi%2C+I'm+David!;MIS+Student+%7C+Aspiring+Cloud+Engineer;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 ---
